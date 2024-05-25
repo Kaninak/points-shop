@@ -2,7 +2,7 @@ body{
     background-color: black;
 }
 .text{
-    color: white!important;
+    color: white
 }
 .good{
     color: greenyellow;
@@ -10,6 +10,6 @@ body{
 .bad{
     color: red;
 }
-.neutral{
-    color: linear-gradient(90deg, greenyellow 0%, red 100%);
+.n{
+    display: inline-block;
 }
