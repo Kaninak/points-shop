@@ -11,5 +11,5 @@ body{
     color: red;
 }
 .neutral{
-    background: linear-gradient(90deg, greenyellow 0%, red 100%);
+    color: linear-gradient(90deg, greenyellow 0%, red 100%);
 }
