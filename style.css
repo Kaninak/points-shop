@@ -1,3 +1,15 @@
-h1{
-    color: white;
+body{
+    background-color: black;
+}
+.text{
+    color: white!important;
+}
+.good{
+    color: greenyellow;
+}
+.bad{
+    color: red;
+}
+.neutral{
+    background: linear-gradient(90deg, greenyellow 0%, red 100%);
 }
